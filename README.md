@@ -26,10 +26,6 @@ mindmap
       C++
       SQL
       JavaScript
-    ((Web Development))
-      HTML
-      CSS
-      WordPress
     ((AI/ML))
       TensorFlow
       PyTorch
@@ -41,15 +37,15 @@ mindmap
       Seaborn
       BERT
       GPT-based models
-    ((Data Visualization))
-      Tableau
-      Power BI
-    ((UX & Design))
+    ((Web Development))
+      HTML
+      CSS
+      WordPress
+    ((UX and Design))
       Design Thinking
       Participatory Design
       Prototyping
       Usability Testing
-      User Interviews
     ((DevOps & Tools))
       Git
       Docker
