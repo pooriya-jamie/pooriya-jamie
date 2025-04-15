@@ -24,7 +24,6 @@ mindmap
       Python
       C
       C++
-      R
       SQL
       JavaScript
     ((Web Development))
@@ -45,8 +44,15 @@ mindmap
     ((Data Visualization))
       Tableau
       Power BI
-    ((DevOps))
+    ((UX & Design))
+      Design Thinking
+      Participatory Design
+      Prototyping
+      Usability Testing
+      User Interviews
+    ((DevOps & Tools))
       Git
+      Docker
 ```
 ---
 
