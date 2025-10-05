@@ -74,7 +74,7 @@ mindmap
 - **Google Scholar:** [Profile](https://scholar.google.com/citations?user=NolFxk8AAAAJ&hl=en)
 - **Website:** [pooriya-jamie.github.io](https://pooriya-jamie.github.io/)
 
-Feel free to reach out via email at [Pooriya.Jamie@aut.ac.ir](mailto:Pooriya.Jamie@aut.ac.ir) or [Pooriya.Jamie@gmail.com](mailto:Pooriya.Jamie@gmail.com).
+Feel free to reach out via email at [Pooriya.Jamie@gmail.com](mailto:Pooriya.Jamie@gmail.com).
 
 ---
 
